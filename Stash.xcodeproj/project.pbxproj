@@ -15,6 +15,7 @@
 		692226B329F0641000D46D3E /* StashUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692226B229F0641000D46D3E /* StashUITests.swift */; };
 		692226B529F0641000D46D3E /* StashUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692226B429F0641000D46D3E /* StashUITestsLaunchTests.swift */; };
 		69EF2F6D29F0705D00E6BE50 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF2F6C29F0705D00E6BE50 /* API.swift */; };
+		69EF2F6F29F0752E00E6BE50 /* NewEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF2F6E29F0752E00E6BE50 /* NewEndpoint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		692226B229F0641000D46D3E /* StashUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StashUITests.swift; sourceTree = "<group>"; };
 		692226B429F0641000D46D3E /* StashUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StashUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		69EF2F6C29F0705D00E6BE50 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		69EF2F6E29F0752E00E6BE50 /* NewEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewEndpoint.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				69EF2F6C29F0705D00E6BE50 /* API.swift */,
+				69EF2F6E29F0752E00E6BE50 /* NewEndpoint.swift */,
 			);
 			path = API;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				6922269929F0640F00D46D3E /* ContentView.swift in Sources */,
 				69EF2F6D29F0705D00E6BE50 /* API.swift in Sources */,
 				6922269729F0640F00D46D3E /* StashApp.swift in Sources */,
+				69EF2F6F29F0752E00E6BE50 /* NewEndpoint.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
