@@ -17,6 +17,7 @@
 		69EF2F6D29F0705D00E6BE50 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF2F6C29F0705D00E6BE50 /* API.swift */; };
 		69EF2F6F29F0752E00E6BE50 /* NewEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF2F6E29F0752E00E6BE50 /* NewEndpoint.swift */; };
 		69EF2F7329F086A400E6BE50 /* HomePresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF2F7229F086A400E6BE50 /* HomePresenter.swift */; };
+		69EF2F7529F0875500E6BE50 /* HomeWireframe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF2F7429F0875500E6BE50 /* HomeWireframe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		69EF2F6C29F0705D00E6BE50 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 		69EF2F6E29F0752E00E6BE50 /* NewEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewEndpoint.swift; sourceTree = "<group>"; };
 		69EF2F7229F086A400E6BE50 /* HomePresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePresenter.swift; sourceTree = "<group>"; };
+		69EF2F7429F0875500E6BE50 /* HomeWireframe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWireframe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				69EF2F7229F086A400E6BE50 /* HomePresenter.swift */,
+				69EF2F7429F0875500E6BE50 /* HomeWireframe.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 				6922269729F0640F00D46D3E /* StashApp.swift in Sources */,
 				69EF2F7329F086A400E6BE50 /* HomePresenter.swift in Sources */,
 				69EF2F6F29F0752E00E6BE50 /* NewEndpoint.swift in Sources */,
+				69EF2F7529F0875500E6BE50 /* HomeWireframe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
