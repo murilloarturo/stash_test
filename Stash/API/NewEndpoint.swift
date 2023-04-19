@@ -1,5 +1,5 @@
 //
-//  API.swift
+//  NewEndpoint.swift
 //  Stash
 //
 //  Created by Arturo Murillo on 19/4/23.
@@ -7,14 +7,12 @@
 
 import Foundation
 
-final class API {
+final class NewEndpoint {
     private let name: String
     private let path: String
-    private let parameter: String
     
-    init(name: String, path: String, parameter: String) {
+    init(name: String, path: String) {
         self.name = name
         self.path = path
-        self.parameter = parameter
     }
 }
