@@ -1,5 +1,5 @@
 //
-//  ProfilePresenter.swift
+//  ProfileWireframe.swift
 //  Stash
 //
 //  Created by Arturo Murillo on 20/4/23.
@@ -7,7 +7,7 @@
 
 import Foundation
 
-final class ProfilePresenter {
+final class ProfileWireframe {
     private let name: String
     private let path: String
     private let photo: String
